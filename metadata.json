@@ -1,0 +1,6 @@
+{
+  "name": "Codgic Agency Portfolio",
+  "description": "Premium, modern, and highly responsive portfolio and agency website for Codgic, featuring interactive services, a project case-study showcase, a customized cost estimator, and beautiful Framer Motion animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
